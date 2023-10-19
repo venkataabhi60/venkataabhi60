@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Javascript**
 
-- 📝 I regularly write articles on [Machine learning](Machine learning)
+- 📝 I regularly write articles on Machine learning
 
 - 💬 Ask me about **Machine learning,Python**
 
