@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gandi Venkata Abhi</h1>
 <h3 align="center">A passionate developer in full stack python and user interface programming.</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkataabhi60&label=Profile%20views&color=0e75b6&style=flat" alt="venkataabhi60" /> </p>
 
