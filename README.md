@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer in full stack python and user interface programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47brgsu8bn9kjwmev456xyc73b37slmid4els3q0wk&ep=v1_gifs_search&rid=200.webp&ct=g">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkataabhi60&label=Profile%20views&color=0e75b6&style=flat" alt="venkataabhi60" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkataabhi60" alt="venkataabhi60" /></a> </p>
